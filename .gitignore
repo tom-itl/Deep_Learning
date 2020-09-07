@@ -3,4 +3,7 @@
 **/**/.ipynb_checkpoints
 **/**/_MACOSX
 **/**/__MACOSX
+**/**/__pycache__
 
+**/**/project-face-generation/processed_celeba_small
+**/processed-celeba-small.zip
